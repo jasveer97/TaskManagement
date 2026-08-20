@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Secrets
+**/.env.prod
+**/.env
+atlas-credentials.env
+alts.env
+
+# Do not commit project documentation
+README.md
+
+# Miscellaneous
+**/.angular/cache
+
+# Compiled output
+frontend/dist
+
+#logs
+backend/logs
