@@ -8,7 +8,7 @@ atlas-credentials.env
 alts.env
 
 # Do not commit project documentation
-README.md
+READMEJassi.md
 
 # Miscellaneous
 **/.angular/cache
@@ -16,5 +16,8 @@ README.md
 # Compiled output
 frontend/dist
 
-#logs
+# logs
 backend/logs
+
+# doc file
+docFile.pdf
